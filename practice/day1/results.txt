@@ -1,0 +1,4 @@
+model      score
+gemini      4.00
+groq        2.50
+llama       3.75
