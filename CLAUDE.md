@@ -179,7 +179,7 @@ Only create files when explicitly asked for an exercise or a broken script to de
 ## Progress tracker
 
 - [x] Day 0: Setup
-- [ ] Day 1: Python core
+- [x] Day 1: Python core
 - [ ] Day 2: Python structure
 - [ ] Day 3: How the web works
 - [ ] Day 4: SQL and pandas
