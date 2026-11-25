@@ -1,0 +1,58 @@
+[
+  {
+    "id": "q17",
+    "question": "How much FHSA participation room do you get when you open your first FHSA?",
+    "topic": "FHSA",
+    "answer": "$8,000",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q18",
+    "question": "What is the lifetime FHSA limit?",
+    "topic": "FHSA",
+    "answer": "$40,000",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html",
+    "difficulty": "easy"
+  },
+  {
+    "id": "q19",
+    "question": "What is the maximum unused FHSA participation room you can carry forward to the next year?",
+    "topic": "FHSA",
+    "answer": "$8,000",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q20",
+    "question": "What is the maximum age to open an FHSA?",
+    "topic": "FHSA",
+    "answer": "71 or younger as of December 31 of the year you open it",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/opening-your-fhsas.html",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q21",
+    "question": "To open an FHSA as a first-time home buyer, during which years must you not have lived in a qualifying home you owned?",
+    "topic": "FHSA",
+    "answer": "The current calendar year and the previous 4 calendar years",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/opening-your-fhsas.html",
+    "difficulty": "medium"
+  },
+  {
+    "id": "q22",
+    "question": "When does the FHSA maximum participation period end?",
+    "topic": "FHSA",
+    "answer": "December 31 of the year of the earliest of: the 15th anniversary of opening your first FHSA, turning 71, or the year after your first qualifying withdrawal",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html",
+    "difficulty": "hard"
+  },
+  {
+    "id": "q24",
+    "question": "For a qualifying FHSA withdrawal, by when must the home purchase or construction be completed?",
+    "topic": "FHSA",
+    "answer": "Before October 1 of the year following the withdrawal",
+    "source_url": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html",
+    "difficulty": "hard"
+  }
+]

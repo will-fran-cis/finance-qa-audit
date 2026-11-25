@@ -1,0 +1,11 @@
+id,question,topic,answer,source_url,difficulty
+q01,What is the TFSA dollar limit for 2026?,TFSA,"$7,000",https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/contributing/calculate-room.html,easy
+q02,What was the TFSA dollar limit for 2015?,TSFA,"$10,000",https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html,easy
+q03,What is the RRSP dollar limit for 2026?,RRSP,"$33,810",https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html,Hard
+q04,What is the Home Buyers' Plan withdrawal limit?,RRSP,,https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html,easy
+q03,What is the lifetime FHSA limit?,FHSA,"$40,000",https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html,easy
+q06,   ,FHSA,"$8,000",https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html,medium
+q07,How many fixed dates per year does the Bank of Canada have for announcing its policy rate?,RATES,8,www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/,easy
+q08,What is the Bank of Canada's inflation-control target?,RATES,2%,http://www.bankofcanada.ca/rates/indicators/key-variables/inflation-control-target/,medium
+q09,What is the last day you can contribute to your own RRSP?,RRSP ,December 31 of the year you turn 71,https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/rrsp-options-when-you-turn-71.html,medium
+q10,What is the tax rate on an excess TFSA amount?,TFS,,https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/owing-tax/excess.html,
