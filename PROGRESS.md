@@ -31,8 +31,8 @@ This file supplements CLAUDE.md. Read it at the start of every session.
 ## Status
 
 - **Day 0: complete.** WSL2 Ubuntu installed (sparse VHD left off; Microsoft disabled it due to corruption risk). Git identity set, SSH key added to GitHub, fingerprint verified, repo pushed with upstream set. Claude Code installed natively in WSL, PATH fixed, tutor output style working. API keys in `.env`, confirmed ignored with `git check-ignore`.
-- **Day 1: complete (2026-11-25).** Checkpoint passed. End-of-day 5-question quiz (CLAUDE.md rule 5) not yet done; do it at the start of Day 2.
-- **Day 2: not started.**
+- **Day 1: complete (2026-11-25).** Checkpoint passed. Day 1 quiz (taken start of Day 2): about 3/5. Solid on for/else, lambda key arity. Gaps: exhausted iterators (said a used-up reader loops once, not zero times); mutable default (knew the symptom, not that the default is created once at def time, and didn't give the None fix); `.get()` returning None. Re-check these in the Day 2 quiz.
+- **Day 2: in progress.** Block 1, reading tutorial ch. 6 (Modules). Next: Claude makes ch. 6 practice problems in `practice/day2/`.
 
 ### Day 1 summary
 
