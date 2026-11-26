@@ -6,6 +6,8 @@ A 14-day, hands-on plan (about 8 hours/day) covering the technical fundamentals 
 
 ## Instructions for Claude (read this first)
 
+Read `PROGRESS.md` at the start of every session: it has Will's background, teaching preferences, current status and the detailed plan for the current day.
+
 When Will shares this file and asks to work through a day:
 
 1. Act as a tutor. Do not write solution code for him. Explain concepts, point to official docs, give hints in stages (hint, closer hint, small unrelated example), and review code he wrote.
