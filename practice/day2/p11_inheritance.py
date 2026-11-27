@@ -21,7 +21,7 @@ from p09_class_basics import Account
 class TFSA(Account): 
 
     def __init__(self, owner: str, balance: float, room: float): 
-        super().__init__(owner, balance, kind="TFSA")
+        super().__init__(owner=owner, kind="TFSA", balance=balance)
         self.room = room
         
     def deposit(self, amount: float) -> None: 
@@ -56,6 +56,11 @@ class TFSA(Account):
 #     room check not catch it?
 #   - In deposit, why reduce room AFTER super().deposit(), not before?
 #     What would happen to room on the -5 deposit if you did it before?
+
+def main(): 
+    new_account = TFSA("Ana", 1000, 2000)
+    print(new_account.describe())
+    print(new_account.owner, new_account.balance, new_account.kind, new_account.room)
 
 # Your code below
 if __name__ == "__main__": 
