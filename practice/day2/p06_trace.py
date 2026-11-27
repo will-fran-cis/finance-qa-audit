@@ -34,7 +34,7 @@ def tricky():
     try:
         return "from try"
     finally:
-        return "from finally"
+        "from finally"
 
 
 print(process("21"))
